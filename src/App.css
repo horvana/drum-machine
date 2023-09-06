@@ -24,7 +24,7 @@ body {
 #drum-machine {
   height: 350px;
   width: 750px;
-  margin: 50% auto;
+  margin: 10% auto;
   background-color: var(--secondary-color);
   display: flex;
   justify-content: space-between;
